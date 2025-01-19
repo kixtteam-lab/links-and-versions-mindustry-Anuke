@@ -1,0 +1,6 @@
+{
+    "versions": ["v7", "v6", "v5", "v4", "v3 Not work"],
+	"v5l": "https://github.com/Anuken/Mindustry/releases/download/v104.6/Mindustry.jar",
+    "v6l": "https://github.com/Anuken/Mindustry/releases/download/v126.2/Mindustry.jar",
+	"v7l": "https://github.com/Anuken/Mindustry/releases/download/v146/Mindustry.jar"
+}
